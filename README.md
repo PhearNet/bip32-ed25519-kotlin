@@ -8,6 +8,7 @@ Currently there are two folders, one to create an .aar file for use in Android, 
 
 ## Requirements
 
+
 | Requirement | Version |
 | ----------- | ------- |
 | Kotlin      | 1.9.22  |
